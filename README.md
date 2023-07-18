@@ -28,4 +28,4 @@ The motivation behind creating this calculator was to demonstrate the power and 
 
 This application relies on the following files located in the same directory as the HTML file:
 - `main.css`: Stylesheet file for the calculator interface.
--
+
